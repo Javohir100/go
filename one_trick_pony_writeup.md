@@ -35,13 +35,18 @@ RNG esa `holly_prime` bo‘yicha ishlaydi va `seed` har safar `+1` bo‘ladi, bi
 
 ## Run
 ```bash
-python3 exploit_clean.py
+python3 exploit.py
 ```
 Skript sizdan `HOST` va `PORT` so‘raydi.
 
 ## Proof
-- TODO: ulanish skrinshot
-- TODO: flag chiqqan skrinshot
+- **nc** skrinshot
+
+![image.png](<./nc.png>)
+
+- **exploit.py** skrinshot
+
+![image.png](<./exploit.png>)
 
 ## Flag
-- `HTB{...}`
+- `HTB{b34t1ng_l3g3nDr3_PRF_us1ng_m33t_1n_th3_m1ddl3!_5e99f005b0846913e2f00f6f590ee64e}`
