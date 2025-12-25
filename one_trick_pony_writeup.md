@@ -1,8 +1,10 @@
-# One Trick Pony (Crypto) — Writeup (UZ)
+# One Trick Pony (Crypto) — Writeup
 
 ## Challenge info
-- Ulanish: `nc HOST PORT`
-- Fayl: `server.py`
+- **Nomi:** One Trick Pony  
+- **Kategoriya:** Crypto
+- **Ulanish:** `nc IP PORT`  
+- **Berilgan:** `server.py`
 
 ## Maqsad
 `2)` menyuda server “snow-otp” so‘raydi. To‘g‘ri yuborsak `flag` beradi.
